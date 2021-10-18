@@ -42,6 +42,8 @@
 			<string>Zoom</string>
 			<key>name</key>
 			<string>%NAME%</string>
+			<key>icon_name</key>
+			<string>Zoom.png</string>
 			<key>unattended_install</key>
 			<false/>
 		</dict>
