@@ -18,16 +18,16 @@
 		<dict>
 			<key>catalogs</key>
 			<array>
-				<string>testing</string>
+				<string>AKTIV</string>
 			</array>
 			<key>description</key>
 			<string>Prototyping tool for testing interactivity.</string>
+			<key>category</key>
+			<string>Development</string>
 			<key>developer</key>
 			<string>Motif Tools BV</string>
 			<key>display_name</key>
 			<string>Framer</string>
-			<key>category</key>
-			<string>Development</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>installable_condition</key>

@@ -22,10 +22,10 @@
 			</array>
 			<key>description</key>
 			<string>Interface design tool with real-time collaboration.</string>
-			<key>developer</key>
-			<string>Figma, Inc.</string>
 			<key>category</key>
 			<string>Development</string>
+			<key>developer</key>
+			<string>Figma, Inc.</string>
 			<key>display_name</key>
 			<string>Figma</string>
 			<key>name</key>
