@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Lingon X.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.download.LingonX</string>
+	<string>com.github.MarcelRei.download.LingonX</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Spark AR Studio and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.munki.SparkARStudio</string>
+	<string>com.github.MarcelRei.munki.SparkARStudio</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -37,7 +37,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>de.JvM.pkg.download.SparkARStudio</string>
+	<string>com.github.MarcelRei.download.SparkARStudio</string>
 	<key>Process</key>
 	<array>
 		<dict>

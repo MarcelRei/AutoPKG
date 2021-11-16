@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Miro.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.download.Miro-arm</string>
+	<string>com.github.MarcelRei.download.Miro-arm</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

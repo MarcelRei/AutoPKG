@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Sonos S1 Controller.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.download.SonosS1Controller</string>
+	<string>com.github.MarcelRei.download.SonosS1Controller</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

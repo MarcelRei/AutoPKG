@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Unity Hub.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.download.UnityHub</string>
+	<string>com.github.MarcelRei.download.UnityHub</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

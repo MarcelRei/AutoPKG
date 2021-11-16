@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Framer and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.munki.Framer-Intel</string>
+	<string>com.github.MarcelRei.munki.Framer-Intel</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -41,7 +41,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>de.JvM.pkg.download.Framer-Intel</string>
+	<string>com.github.MarcelRei.download.Framer-Intel</string>
 	<key>Process</key>
 	<array>
 		<dict>

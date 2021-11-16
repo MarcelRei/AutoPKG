@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Joplin.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.download.Joplin</string>
+	<string>com.github.MarcelRei.download.Joplin</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
