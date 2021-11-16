@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Spotify.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.download.Spotify-arm</string>
+	<string>com.Github.MarcelRei.Spotify-arm</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
