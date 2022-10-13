@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Bridge.</string>
 	<key>Identifier</key>
-	<string>com.GitHub.MarcelRei.download.Bridge</string>
+	<string>com.github.MarcelRei.download.Bridge</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

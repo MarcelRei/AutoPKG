@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Framer and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>de.JvM.pkg.munki.Framer-arm</string>
+	<string>com.github.MarcelRei.munki.Framer-arm</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>

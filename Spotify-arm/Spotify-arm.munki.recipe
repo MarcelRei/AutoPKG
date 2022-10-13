@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Spotify and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>com.Github.MarcelRei.Spotify-arm</string>
+	<string>com.github.MarcelRei.Spotify-arm</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
